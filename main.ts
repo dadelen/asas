@@ -29,5 +29,3 @@ export function actuator_relay(pin: DigitalPin,status:on_off): void {
 }
 }
     
-}
-}
